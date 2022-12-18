@@ -25,7 +25,6 @@ namespace Project_ICT
         int sliderSpeedValue;
         int rainbowOffset;
         int r, g, b;
-        int fs;
 
         CancellationTokenSource source = new CancellationTokenSource();
 
